@@ -117,3 +117,46 @@ module.exports = router ;
     }
 }
 */ 
+/*
+user2
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3QyQGV4YW1wbGUuY29tIiwidXNlcklkIjoiNjhjZWNhOWMzMTZlNmI1M2ZiNDgxNmQ5IiwiaWF0IjoxNzU4MzgyNzgxLCJleHAiOjE3NTgzODYzODF9.9Qq87yLUcdldfxXPuHBXVgs_seK5_8HmYBN4Wbasg9w",
+    "userId": "68ceca9c316e6b53fb4816d9"
+}
+*/
+/*
+{
+    "message": "Post has been created succcessfully",
+    "post": {
+        "title": "A cup of coffe",
+        "content": "A cup of coffee",
+        "imageUrl": "images/2025-09-20T16-06-00.104Z-A_cup_of_coffee.jpg",
+        "creator": "68ceca9c316e6b53fb4816d9",
+        "likes": [],
+        "_id": "68ced0e818872cb67be59ba7",
+        "comments": [],
+        "createdAt": "2025-09-20T16:06:00.117Z",
+        "updatedAt": "2025-09-20T16:06:00.117Z",
+        "__v": 0
+    },
+    "creator": {
+        "_id": "68ceca9c316e6b53fb4816d9",
+        "name": "Hoor"
+    }
+}
+*/
+/*
+user 1 
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RAZXhhbXBsZS5jb20iLCJ1c2VySWQiOiI2OGNhZDQ5YWY3MzIyMTI3MGRiNWExZDQiLCJpYXQiOjE3NTgzODQ3ODMsImV4cCI6MTc1ODM4ODM4M30.7FGOXop71HqosK5WTaMjA2lsqbq_oHY-zF9DjZFRfYQ",
+    "userId": "68cad49af73221270db5a1d4"
+}
+*/ 
+
+/*
+user2
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3QyQGV4YW1wbGUuY29tIiwidXNlcklkIjoiNjhjZWNhOWMzMTZlNmI1M2ZiNDgxNmQ5IiwiaWF0IjoxNzU4Mzg2MDM5LCJleHAiOjE3NTgzODk2Mzl9.U-MGYh7uGBQ3vlP00wiQYlLo_8rm23VhU_-ZFydvHhE",
+    "userId": "68ceca9c316e6b53fb4816d9"
+}
+*/ 

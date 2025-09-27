@@ -10,7 +10,7 @@ const authHeader = req.get('Authorization') ;
   const token = authHeader.split(' ')[1] ;
   let decodedToken ;
  try{
-   decodedToken = jwt.verify(token , 'supersecretsecret') ;
+   decodedToken = jwt.verify(token , process.env.JWT_SECRET) ;
  }catch(err){
   if(!err.statusCode){
    err.statusCode = 401 ;}

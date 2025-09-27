@@ -35,7 +35,7 @@ exports.sendRequest = (req , res , next) => {
           error.statusCode = 400 ;
           throw error ;
         }
-      }
+      } 
       const newFriendRequest = new FriendRequest({
         from : fromUserId ,
         to : toUserId ,
