@@ -26,11 +26,11 @@ Built with **Node.js**, **Express**, and **MongoDB**.
 
 5. Create a `.env` file in the root directory and add:
 
-  ```env
-  MONGODB_URI="your_mongodb_connection_string_here"
-  JWT_SECRET="your_jwt_secret_here"
-  PORT=8080
-  ```
+   ```env
+   MONGODB_URI="your_mongodb_connection_string_here"
+   JWT_SECRET="your_jwt_secret_here"
+   PORT=8080
+   ```
 
 6. Run the server:
    ```bash
